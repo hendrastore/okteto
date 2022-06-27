@@ -50,7 +50,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bombdy
 global.botname = "𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄" //ur bot name
 global.websitex = "" //ur website
-global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
+global.vidmenu = { url: 'https://a.uguu.se/TsffkBAJ.mp4' } //gif and video menu
 global.packname = "𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄ Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄"
 global.themeemoji = "🐶"
